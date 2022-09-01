@@ -1,0 +1,27 @@
+# ninja log v5
+1	537	6836581911823721	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+541	962	6836581916034830	Convergence.exe	8b1be04e4e3a7b58
+4	381	6836585477761859	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+381	621	6836585480027365	Convergence.exe	8b1be04e4e3a7b58
+20	538	6836586053727536	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+539	661	6836586054905674	Convergence.exe	8b1be04e4e3a7b58
+5	942	6836596766946452	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+944	1338	6836596770986831	Convergence.exe	8b1be04e4e3a7b58
+12	555	6836598218092425	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+555	711	6836598219623997	Convergence.exe	8b1be04e4e3a7b58
+3	691	6836935513562827	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+692	1030	6836935516913846	Convergence.exe	8b1be04e4e3a7b58
+5	398	6836935904348280	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+398	550	6836935905794434	Convergence.exe	8b1be04e4e3a7b58
+3	377	6836936241946489	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+378	482	6836936242954136	Convergence.exe	8b1be04e4e3a7b58
+4	334	6836938424180251	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+335	448	6836938425247379	Convergence.exe	8b1be04e4e3a7b58
+3	352	6836938810676064	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+352	451	6836938811638526	Convergence.exe	8b1be04e4e3a7b58
+4	464	6836938962517603	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+464	597	6836938963824107	Convergence.exe	8b1be04e4e3a7b58
+3	338	6836939068008568	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+338	438	6836939068958418	Convergence.exe	8b1be04e4e3a7b58
+3	331	6836939644042017	CMakeFiles/Convergence.dir/main.cpp.obj	4ae8cb5011e70fd4
+332	456	6836939645228838	Convergence.exe	8b1be04e4e3a7b58

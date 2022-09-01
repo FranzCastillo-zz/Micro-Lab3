@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Convergence",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Convergence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Convergence-Debug-1d0ab70c6372d49089df.json",
+					"name" : "Convergence",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/UVG/Segundo/SegundoSemestre/Microprocesadores/Laboratorios/Laboratorio3/Micro-Lab3/Convergence/cmake-build-debug",
+		"source" : "D:/UVG/Segundo/SegundoSemestre/Microprocesadores/Laboratorios/Laboratorio3/Micro-Lab3/Convergence"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
