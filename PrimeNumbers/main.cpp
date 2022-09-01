@@ -3,7 +3,7 @@
 using namespace std;
 
 struct threadParameters{
-    int num, min, max;
+    int num, min, max, sum;
 };
 
 void separator(){
@@ -57,6 +57,7 @@ void* checkPrimes(void *arguments){
             cout << now << endl;
         }
     }
+    args->sum = sum;
     cout << "Suma hilo:\t\t" << sum << endl;
     separator();
     pthread_exit(nullptr);
@@ -76,6 +77,7 @@ int main() {
     pthread_t threads[nThreads];
     // IF THERE'S MORE THAN 1 THREAD
     int residue;
+    int totalSum = 0;
     for(int i = 0; i < nThreads; i++) {
         // PREPARES THE THREADS PARAMETERS
         residue = 0;
@@ -89,6 +91,8 @@ int main() {
 
         pthread_create(&threads[i], nullptr, checkPrimes, (void *) &paramArray[i]);
         pthread_join(threads[i], nullptr);
+        totalSum += paramArray[i].sum;
     }
+    cout << "Suma TOTAL:\t\t" << totalSum << endl;
     return 0;
 }
